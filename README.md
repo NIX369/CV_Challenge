@@ -39,7 +39,7 @@ The neural network with the mentioned parameters are in the notebook: XML_tfreco
 
 # Final Remarks:
 
-It was an interesting challenge to detect defects on the stell surface using computer vision.
+It was an interesting challenge to detect physical defects on the steel surface using computer vision.
 
 I am currently in the middle of the final exams of my Master's degree and I was not able to put in the full time to create a new dataset and fix the issues as mentioned above.
 
