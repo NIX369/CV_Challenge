@@ -42,4 +42,5 @@ The neural network with the mentioned parameters are in the notebook: XML_tfreco
 It was an interesting challenge to detect defects on the stell surface using computer vision.
 
 I am currently in the middle of the final exams of my Master's degree and I was not able to put in the full time to create a new dataset and fix the issues as mentioned above.
+
 I learnt a lot through this challenge and would like to discuss more about this in the further rounds. :)
