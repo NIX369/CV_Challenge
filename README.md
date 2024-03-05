@@ -6,7 +6,7 @@ Observations about the dataset:
 
 While, processing the data to create the tfrecords, I observed multiple issues with the dataset:
 
-- There are missing xml annotation files for the respective image. (Ex: The image crazing_240.jpg is rpesent, but it's xml file is missing).
+- There are missing xml annotation files for the respective image. (Ex: The image crazing_240.jpg is present, but it's xml file is missing).
   
 - Inconsistent file names in the xml annotations (Ex: patches_231 has the attribute file name specified as "patches_231.jpg", pitted_surface_125 has the attributed file name specified as "pitted_surface_125" with     no .jpg extension). While reading the images and their respective annotations while creating tf records, this costed more time for debugging the issue.
   
