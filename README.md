@@ -45,5 +45,7 @@ I am currently in the middle of the final exams of my Master's degree and I was 
 
 I learnt a lot through this challenge and would like to discuss more about this in the further rounds. :)
 
-PS: Since the annotations data is not structred and processed, I have built an image classifier (Xception moedel) with just the image data and the accuracy for this was more than 70%.
+# PS: 
+
+  Since the annotations data is not structred and processed, I have built an image classifier (Xception moedel) with just the image data and the accuracy for this was more than 70%.
     This code is present in the CV_Challenge_Trained_Model.ipynb notebook
