@@ -35,7 +35,7 @@ The tf records were generated in all 3 approaches. According to me, the right on
 I build the Xception model as specified and one major observation initially was, the DNN uses RGB input images of size (224x224). 
 The dataset provided has the following size (200x200) & color_channel = 1; because of black and white images.
 
-The neural network with the mentioned parameters are in the notebook: XML_train_model_tfrecords.ipynb
+The neural network with the mentioned parameters are in the notebook: XML_tfrecords.ipynb
 
 # Final Remarks:
 
